@@ -1,2 +1,2 @@
 # AI-Crack
-In dieser pdf ist beschrieben wie der crack geht
+kopiere den link aus der txt file und füge ihn in deinem webbrowser ein
